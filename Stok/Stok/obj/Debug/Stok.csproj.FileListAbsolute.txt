@@ -1,0 +1,15 @@
+C:\Users\fatih\source\repos\Stok\Stok\bin\Debug\Stok.exe.config
+C:\Users\fatih\source\repos\Stok\Stok\bin\Debug\Stok.exe
+C:\Users\fatih\source\repos\Stok\Stok\bin\Debug\Stok.pdb
+C:\Users\fatih\source\repos\Stok\Stok\obj\Debug\Stok.csprojAssemblyReference.cache
+C:\Users\fatih\source\repos\Stok\Stok\obj\Debug\Stok.Form1.resources
+C:\Users\fatih\source\repos\Stok\Stok\obj\Debug\Stok.Properties.Resources.resources
+C:\Users\fatih\source\repos\Stok\Stok\obj\Debug\Stok.csproj.GenerateResource.cache
+C:\Users\fatih\source\repos\Stok\Stok\obj\Debug\Stok.csproj.CoreCompileInputs.cache
+C:\Users\fatih\source\repos\Stok\Stok\obj\Debug\Stok.exe
+C:\Users\fatih\source\repos\Stok\Stok\obj\Debug\Stok.pdb
+C:\Users\fatih\source\repos\Stok\Stok\obj\Debug\Stok.frmMusteriEkle.resources
+C:\Users\fatih\source\repos\Stok\Stok\obj\Debug\Stok.frmMusteriListeleme.resources
+C:\Users\fatih\source\repos\Stok\Stok\obj\Debug\Stok.frmKategori.resources
+C:\Users\fatih\source\repos\Stok\Stok\obj\Debug\Stok.frmMarka.resources
+C:\Users\fatih\source\repos\Stok\Stok\obj\Debug\Stok.frmUrunEkle.resources
